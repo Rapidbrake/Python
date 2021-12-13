@@ -9,7 +9,6 @@
 Пример словаря:
 {“Информатика”: 170, “Физика”: 40, “Физкультура”: 30} """
 
-
 subj = {}
 with open('Lesson_5\lesson5_6.txt', encoding='utf-8') as init_f:
     for line in init_f:
